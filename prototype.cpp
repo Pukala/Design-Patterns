@@ -1,6 +1,5 @@
 #include <iostream>
 #include <array>
-
 enum class TypeOfImage
 {
 	landscape, selfie
