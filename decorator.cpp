@@ -51,4 +51,6 @@ int main()
 
 	gun = new Ak47WithKnife(*gun);
 	gun->fire();
+	
+	delete gun;
 }
